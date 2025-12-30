@@ -1,0 +1,7 @@
+{
+  "name": "DeutschMeister AI",
+  "description": "Мобільний додаток для вивчення німецької мови з AI-сценаріями, картками та контекстним навчанням.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
